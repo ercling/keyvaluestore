@@ -1,0 +1,18 @@
+<root>
+    <firstName>John</firstName>
+    <lastName>Sellick</lastName>
+    <streetAddress>Московское ш., 101, кв.101</streetAddress>
+    <Session>
+        <SessionData>
+            <Parameter>
+                <User>Username1</User>
+                <Password>password123</Password>
+            </Parameter>
+            <OutputData>
+                <Step>
+                    <Error_Message>Please have transaction ID and related information ready. Timestamp : 20070731 01:50:06 Session : 0201</Error_Message>
+                </Step>
+            </OutputData>
+        </SessionData>
+    </Session>
+</root>
